@@ -132,8 +132,8 @@ function App() {
             </div>
             <div className="bg-white rounded-lg p-6 shadow-sm">
               <h3 className="text-xl font-semibold text-blue-600 mb-3">After Job Offer</h3>
-              <p className="text-2xl font-bold text-gray-800">10–20% of monthly salary</p>
-              <p className="text-gray-600">Typically around $2,000 per month</p>
+              <p className="text-2xl font-bold text-gray-800">10% of monthly salary</p>
+              <p className="text-gray-600">Typically around $1,400 per month</p>
             </div>
           </div>
         </div>
