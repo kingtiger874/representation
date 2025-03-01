@@ -9,7 +9,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-16">
             <div className="flex items-center">
-              <h1 className="text-xl font-bold text-blue-600">SilverRabbit</h1>
+              <h1 className="text-xl font-bold text-blue-600">Toto Pt</h1>
             </div>
             <div className="flex items-center">
               <a 
