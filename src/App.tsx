@@ -9,7 +9,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-16">
             <div className="flex items-center">
-              <h1 className="text-xl font-bold text-blue-600">RemoteRepresent</h1>
+              <h1 className="text-xl font-bold text-blue-600">SilverRabbit</h1>
             </div>
             <div className="flex items-center">
               <a 
@@ -34,7 +34,8 @@ function App() {
           </p>
           <div className="flex justify-center">
             <img 
-              src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80" 
+              src="https://images.unsplash.com/photo-1497215842964-222b430dc094?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+              // src="/beach.png"
               alt="Remote work illustration" 
               className="rounded-lg shadow-lg max-w-full h-auto"
             />
@@ -64,7 +65,7 @@ function App() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-white rounded-lg p-6 shadow-sm">
-              <h3 className="text-xl font-semibold text-blue-600 mb-3">Before Job Offer</h3>
+              <h3 className="text-xl font-semibold text-blue-600 mb-3">First</h3>
               <ul className="space-y-2">
                 <li className="flex items-start">
                   <CheckCircle className="h-5 w-5 text-green-500 mr-2 flex-shrink-0 mt-0.5" />
@@ -81,7 +82,7 @@ function App() {
               </ul>
             </div>
             <div className="bg-white rounded-lg p-6 shadow-sm">
-              <h3 className="text-xl font-semibold text-blue-600 mb-3">After Job Offer</h3>
+              <h3 className="text-xl font-semibold text-blue-600 mb-3">Second</h3>
               <ul className="space-y-2">
                 <li className="flex items-start">
                   <CheckCircle className="h-5 w-5 text-green-500 mr-2 flex-shrink-0 mt-0.5" />
